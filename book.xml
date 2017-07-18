@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns="http://www.epam.mn.com/book"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xsi:schemaLocation="http://www.epam.mn.com/book book.xsd">
+    <service category ="adminservice">
+        <command>
+        <name>addbook</name>
+        <bookId>2012</bookId>
+        <userId> </userId>
+        <bookName> </bookName>
+        <bookAuthor>FirstAuthor</bookAuthor>
+        <bookYear>2016</bookYear>
+        </command>
+    </service> 
+ </book>
